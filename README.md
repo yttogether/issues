@@ -1,4 +1,4 @@
-# Discord Bot List & Server List Issues
+# YTTogether Bot Issues 
 
 Thank you for reporting any issues you are facing. By doing that you help us and the community making YTTogether a better place for everyone.
 
